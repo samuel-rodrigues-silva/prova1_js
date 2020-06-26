@@ -1,0 +1,31 @@
+body{
+    padding: 10px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.card{
+    text-align: center;
+    border: 1px solid black;
+    padding:20px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+label{
+    float:left
+}
+
+input{
+    width: 100%;
+}
+
+#btn_login{
+    margin-top: 30px;
+}
+
+.alert{
+    color: red;
+    float: left;
+    display:none
+}
